@@ -1,0 +1,15 @@
+/Users/admin/Documents/GitHub/dotnet-parking/bin/Debug/net8.0/dotnet-parking
+/Users/admin/Documents/GitHub/dotnet-parking/bin/Debug/net8.0/dotnet-parking.deps.json
+/Users/admin/Documents/GitHub/dotnet-parking/bin/Debug/net8.0/dotnet-parking.runtimeconfig.json
+/Users/admin/Documents/GitHub/dotnet-parking/bin/Debug/net8.0/dotnet-parking.dll
+/Users/admin/Documents/GitHub/dotnet-parking/bin/Debug/net8.0/dotnet-parking.pdb
+/Users/admin/Documents/GitHub/dotnet-parking/obj/Debug/net8.0/dotnet-parking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/dotnet-parking/obj/Debug/net8.0/dotnet-parking.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/dotnet-parking/obj/Debug/net8.0/dotnet-parking.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/dotnet-parking/obj/Debug/net8.0/dotnet-parking.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/GitHub/dotnet-parking/obj/Debug/net8.0/dotnet-parking.sourcelink.json
+/Users/admin/Documents/GitHub/dotnet-parking/obj/Debug/net8.0/dotnet-parking.dll
+/Users/admin/Documents/GitHub/dotnet-parking/obj/Debug/net8.0/refint/dotnet-parking.dll
+/Users/admin/Documents/GitHub/dotnet-parking/obj/Debug/net8.0/dotnet-parking.pdb
+/Users/admin/Documents/GitHub/dotnet-parking/obj/Debug/net8.0/dotnet-parking.genruntimeconfig.cache
+/Users/admin/Documents/GitHub/dotnet-parking/obj/Debug/net8.0/ref/dotnet-parking.dll
