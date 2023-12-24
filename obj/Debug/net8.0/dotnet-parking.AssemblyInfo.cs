@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-parking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21ebb1b65ccc64645ed35a04d6c8f89a931e5729")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2238846b6d6a7d5ffde6b4d24b3db227b1a7f08a")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet-parking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet-parking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
